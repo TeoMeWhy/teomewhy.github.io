@@ -1,1 +1,0 @@
-# teomewhy.github.io
