@@ -4,11 +4,11 @@
 - key: sobre
   value:
     - Boas vindas!
-    - Aprenda com quem tem currículo e experiência
-    - Bacharel em Estatística (UNESP)
-    - Especialista em Big Data e Data Science (UFPR)
-    - +10 anos de mercado na área de dados
-    - Construção e gestão de times em dados
+    - Aprenda com quem tem currículo e experiência.
+    - Bacharel em Estatística (UNESP).
+    - Especialista em Big Data e Data Science (UFPR).
+    - +10 anos de mercado na área de dados.
+    - Construção e gestão de times em dados.
   typed: true
 
 # - key: historico
@@ -66,7 +66,7 @@
     - value: Instagram
       url: https://www.instagram.com/teomewhy
     - value: LinkedIn
-      url: https://www.linkedin.com/teo.calvo
+      url: https://www.linkedin.com/in/teo.calvo
     - value: Twitter(X)
       url: https://x.com/teomewhy
 
